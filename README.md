@@ -8,5 +8,3 @@ With the few programs I have developed, I would usually start coding the needs f
 
 # What does it mean to be a good team member in software development?
 A good team member in software development includes multiple different characteristics.  My most important is respect.  Knowing how to give positive criticism or help without defending your team is crucial for morale and the group's commodity.  The second important characteristic is communication and collaboration.  Especially in an agile process, communication is critical.  From the transmission to the consumer to the tester, communication allows the team to stay on the same page and continue the same vision. 
-
-![image](https://user-images.githubusercontent.com/99150454/174682870-8b14c015-0c00-4d5a-a4e6-3a65b535bd48.png)
